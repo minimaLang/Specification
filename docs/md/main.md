@@ -3,15 +3,28 @@
 _minimaLang_, or _minimaL_ for short, is a stack-based programming language with minimal syntax. \
 The syntax is reverse polish notation (RPN).
 
-The following shows the built-in operations[^1].
+- [Content](#content)
+- [Implementation](#implementation)
+- [Notes](#notes)
 
-## Built-in Operations
+## Content
 
-- [Math Operations](#math-operations)
-- [Stack Operations](#stack-operations)
+- [Specification](specification)
+- [Appendix A](appendix-a)
+
+- [Introduction](introduction)
+  - [Motivation](introduction#motivation)
+  - [Goal](introduction#goal)
+  - [No Goal](introduction#no-goal)
+
+- [Syntax Convention](syntax-convention)
+- [Tips and Tricks](tips-and-tricks)
+
+## Implementation
+
+None known.
+Own implementation comming later.
 
 ## Notes
 
-(_Later or never_.)
-
-[^1]: The square bracket shows **intermediate** result.
+_Now or never_.
