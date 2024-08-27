@@ -1,0 +1,17 @@
+[book]
+authors      = ["Sara Tasche"]
+language     = "en"
+multilingual = true
+src          = "docs"
+title        = "minimaLang - Specification"
+
+
+[output.html]
+smart-punctuation   = true
+git-repository-url  = "https://github.com/minimaLang/"
+git-repository-icon = "fa-github"
+# edit-url-template = ""
+
+[output.html.print]
+enable     = true
+page-break = true

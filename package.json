@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "stimulus-store": "^0.0.3"
+  }
+}
