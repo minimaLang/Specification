@@ -35,12 +35,19 @@ Some points are
      if there is a bug in the official implementation
 2. Do you have a suggestion?
    - File a _Suggestion for Discussion_ (SD)
-3. Do you have a question?
+3. Do you have an idea to make it better?
    - File a _Request for Response_ (RR)
-4. Something is missing?
-   - Please write it.
-5. None of the above points apply or doesn't fit?
-   - Please write it down.
+4. Do you have a question?
+   - [Read the Wiki](https://github.com/minimaLang/Specification/wiki)
+   - [Contact the Community](https://www.github.com/minimaLang/)
+5. Something is missing?
+   - If you _do not know how to_ fill the gap
+       - Contact the Community
+   - If you know how to fill the gap
+       1. Contact the Community
+       2. Fill the gap
+6. None of the above points apply or doesn't fit?
+   - Please contact the Community.
 
 Thank you!
 

@@ -5,5 +5,5 @@
   - _Types_
     - [Basic](./0-2024-0/built-in_type.md)
     - [Data Structure](./0-2024-0/built-in_datastruct.md)
-    - [Flow Control](./0-2024-0/built-in_flow-constrol.md)
+    - [Flow Control](./0-2024-0/built-in_flow-control.md)
     - [Operation](./0-2024-0/built-in_operation.md)

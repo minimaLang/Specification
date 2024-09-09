@@ -8,4 +8,4 @@
 
 1. [Code of Conduct](./CODE_OF_CONDUCT.md)
 2. [License](./LICENSE.md)
-3. [How To Contribute](./CONSTRIBUTION.md)
+3. [How To Contribute](./CONTRIBUTION.md)

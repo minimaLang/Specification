@@ -1,9 +1,12 @@
 # Content
 
+- Welcome
+    - [Newer](TABLE_OF_CONTENT-1.md)
+    - [Version History](./history.md)
 - [Chapter 1](./Chapter_1.md)
   - [Code of Conduct](./CODE_OF_CONDUCT.md)
   - [License](./LICENSE.md)
-  - [How To Contribute](./CONSTRIBUTION.md)
+  - [How To Contribute](./CONTRIBUTION.md)
 - [Chapter 2](./Chapter_2.md)
   - [Welcome](./0-2024-0/ENTRY.md)
   - [Introduction](./0-2024-0/introduction)
@@ -12,7 +15,7 @@
   - [On-Hand](./0-2024-0/built-in_on-hand.md)
   - [Basic Types](./0-2024-0/built-in_type.md)
   - [Data Structure](./0-2024-0/built-in_datastruct.md)
-  - [Flow Control](./0-2024-0/built-in_flow-constrol.md)
+  - [Flow Control](./0-2024-0/built-in_flow-control.md)
   - [Operation](./0-2024-0/built-in_operation.md)
 - [Chapter 4](./Chapter_4.md)
   - [A Pinch of Sugar](./0-2024-0/built-in_syntactic-sugar.md)
