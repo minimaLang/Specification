@@ -1,4 +1,5 @@
-book
-docs/trash
+book/
+docs/trash/
+node_modules/
 *.sqlite
 *-lock.json
